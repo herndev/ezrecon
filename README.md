@@ -5,6 +5,7 @@ A full-stack penetration testing and reconnaissance suite for security professio
 **Live:** [https://ezrecon.vercel.app](https://ezrecon.vercel.app)
 
 <img src="https://img.shields.io/badge/CODE-BY_HERNDEV-2ea44f?style=for-the-badge&logo=github" alt="HERNDEV">
+
 ---
 
 ## Try It Out
