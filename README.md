@@ -62,8 +62,3 @@ Visit [https://ezrecon.vercel.app](https://ezrecon.vercel.app) and click **"Try 
 
 EZRECON is intended for **authorized penetration testing only**. Only use these tools against systems you own or have explicit written permission to test. Unauthorized use may violate computer fraud laws in your jurisdiction.
 
----
-
-## Author
-
-Built by [HERND3V](https://github.com/herndev)
